@@ -3,11 +3,14 @@
 
 # Steps 
 
-Clone or download the project 
-Maven Update project 
+Clone or download the project. 
 
-Download and extract Apache tomcat. 
+Maven Update project. 
+
+Download and extract Apache tomcat.
+
 Add tomcat as server. 
+
 If required, change the port number.  
 
 Add the "Maven Dependency" in the Deployment Assembly
