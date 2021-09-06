@@ -7,7 +7,9 @@ Clone or download the project.
 
 Maven Update project. 
 
-Download and extract Apache tomcat.
+Download and extract Apache tomcat 9.
+
+Do not use tomcat 10.
 
 Add tomcat as server. 
 

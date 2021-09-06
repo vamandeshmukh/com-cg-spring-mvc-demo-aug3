@@ -1,6 +1,7 @@
 package com.cg.spring.mvc.demo.aug3.model;
 
 public class Employee {
+
 	private String userName;
 	private String password;
 

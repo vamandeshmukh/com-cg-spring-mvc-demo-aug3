@@ -33,14 +33,6 @@ public class AppController {
 		return "login";
 	}
 
-//	@RequestMapping("/welcome")
-//	public String welcome(@RequestParam("userName") String userName, @RequestParam("password") String password) {
-//		System.out.println("welcome");
-//		if (userName.equals("admin") && password.equals("admin"))
-//			return "welcome";
-//		return "login";
-//	}
-
 	@RequestMapping("/welcome")
 	public String welcome(Employee employee, Model model) {
 		System.out.println("welcome");
